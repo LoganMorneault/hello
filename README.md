@@ -10,6 +10,7 @@ Java
 - pyramid-solitaire, a program that supports three different kinds of pyramid solitaire played in the command line.
 - animator, a program that animates a given file in one of four supported formats, including text, svg, and a separate window.
 
-
+C++
+- c-string, code implementing multiple functions in C++ and C's string.h library.
 
 I have work for a programming in C++ class that hasn't yet made it to GitHub, but it should be up soon. I am also currently taking classes on Algorithms, Computer Systems, and Cybersecurity, so expect projects related to those as it becomes available.
