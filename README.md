@@ -1,6 +1,6 @@
 # Hello!
 
-Hi stranger! If you're reading this, you're likely looking to take a look at some of the code I've written. Unfortunately, much of what I've made has been for school projects, and policy requires that I do not make this work public. I am allowed to make exceptions, so long as I ask, so if you'd like me to make something public for a brief time please contact me at loganmorneault@gmail.com so I can do so.
+Hi stranger! If you're reading this, you're likely looking to take a look at some of the code I've written. Unfortunately, much of what I've made has been for school projects and policy requires that I do not make this work public. I am allowed to make individual repositories public for several days at a time so long as I get permission from course staff,  so if you'd like me to view my work please contact me at loganmorneault@gmail.com or morneault.l@northeastern.edu so I can do so.
 
 
 My private repositories are as follows:
@@ -12,5 +12,6 @@ Java
 
 C++
 - c-string, code implementing multiple functions in C++ and C's string.h library.
+- dlldeque, code implementing a doubly-linked list, relevant methods, and an iterator.
 
-I have work for a programming in C++ class that hasn't yet made it to GitHub, but it should be up soon. I am also currently taking classes on Algorithms, Computer Systems, and Cybersecurity, so expect projects related to those as it becomes available.
+I am currently taking classes on Algorithms, Computer Systems, and Cybersecurity, so expect repositories related to those as it comes up.
