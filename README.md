@@ -12,6 +12,9 @@ Java
 
 C++
 - c-string, code implementing multiple functions in C++ and C's string.h library.
-- dlldeque, code implementing a doubly-linked list, relevant methods, and an iterator.
+- dlldeque, code implementing a doubly-linked list, associated methods, and an iterator.
+- pathfinding, code implementing the A* Search and Breadth-First Search algorithms.
+
+I've written a number-recognition program in Racket and a basic implementation of Pong in Lua, although the hard drive these were stored on has since failed and I am unable to retrieve them. 
 
 I am currently taking classes on Algorithms, Computer Systems, and Cybersecurity, so expect repositories related to those as it comes up.
