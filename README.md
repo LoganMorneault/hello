@@ -2,12 +2,12 @@
 
 If you're reading this, you probably want to take a look at some of the code I've written. Unfortunately, much of what I've made has been for school projects and policy requires that I do not make this work public. I am allowed to make individual repositories public for several days at a time so long as I get permission from course staff,  so if you'd like me to view my work please contact me at loganmorneault@gmail.com or morneault.l@northeastern.edu so I can do so.
 
-Some of my work is also available on Repl.it, an online code-editing service. Most of it is in C++ and relatively unimportant, although I have also made some games in KaBoom.js that can be played using the links below.
+Some of my work is also available on Repl.it, an online code-editing service. Most of it is in C++ and relatively unimportant, although I have also made some games with a JavaScript library called KaBoom.js that can be played using the links below.
  - [Space Invaders](https://space-invaders.loganmorneault.repl.co/)
  - [Super Mario](https://super-mario.loganmorneault.repl.co/)
 
 
-My private repositories are as follows:
+My private GitHub repositories are as follows:
 
 Java
 - minesweeper, a single file, fully funcitonal minesweeper game played in a separate window.
