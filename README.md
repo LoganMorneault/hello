@@ -19,4 +19,7 @@ C++
 - dlldeque, code implementing a doubly-linked list, associated methods, and an iterator.
 - pathfinding, code implementing the A* Search and Breadth-First Search algorithms.
 
+Python
+- cs3800, a collection of various programs implementing DFAs and NFAs as part of Northeastern University's CS3800 Theory of Computation course. 
+
 I've also written a number-recognition program in Racket and a basic implementation of Pong in Lua, although the hard drive these were stored on has since failed and I am unable to retrieve them. 
