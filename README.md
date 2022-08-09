@@ -1,6 +1,6 @@
 # Hello!
 
-If you're reading this, you probably want to take a look at some of the code I've written. Unfortunately, much of what I've made has been for school projects and policy requires that I do not make this work public. I am allowed to make individual repositories public for several days at a time so long as I get permission from course staff,  so if you'd like me to view my work please contact me at loganmorneault@gmail.com or morneault.l@northeastern.edu so I can do so.
+If you're reading this, you probably want to take a look at some of the code I've written. Unfortunately, much of what I've made has been for school projects or as part of a co-op and I am not permitted to make this work public. I am allowed to make individual repositories public for several days at a time so long as I get permission from course staff,  so if you'd like me to view my work please contact me at loganmorneault@gmail.com or morneault.l@northeastern.edu so I can do so.
 
 Some of my work is also available on Repl.it, an online code-editing service. Most of it is in C++ and relatively unimportant, although I have also made some games with a JavaScript library called KaBoom.js that can be played using the links below.
  - [Space Invaders](https://space-invaders.loganmorneault.repl.co/)
@@ -22,4 +22,6 @@ C++
 Python
 - cs3800, a collection of various programs implementing DFAs and NFAs as part of Northeastern University's CS3800 Theory of Computation course. 
 
-I've also written a number-recognition program in Racket and a basic implementation of Pong in Lua, although the hard drive these were stored on has since failed and I am unable to retrieve them. 
+I've also written a computer vision number-recognition program in Racket and a basic implementation of Pong in Lua, although the hard drive these were stored on has since failed and I am unable to retrieve them. 
+
+More recently, I've been creating single page applications while on co-op, primarily using ASP.NET Core MVC and Angular. These are the most impressive of my projects thus far but for obvious reasons cannot be made publicly available. I'm happy to chat about these, or anything else you're interested in, at either of the email addresses listed above.
